@@ -11,6 +11,7 @@ In this project I have created four slides which are as follows :-
      4) Tables
 
 All this slides cover all the business problems and provides suitable solution for each. 
+There is also a list of all the dax measures that I have used in this project. 
 
 
 ## Documentation
